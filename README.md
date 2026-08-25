@@ -39,10 +39,6 @@ The purpose of this project is to create a simple productivity tool that encoura
 
 Add a screenshot of your Habit Tracker here.
 
-```text
-![Habit Tracker Preview](screenshot.png)
-```
-
 ## 📂 Project File
 
 The repository contains the Habit Tracker spreadsheet/template created using Google Sheets.
