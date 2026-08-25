@@ -7,7 +7,7 @@ A simple and visually organized **Habit Tracker created using Google Sheets** to
 
 This Habit Tracker is designed to make daily habit tracking simple and easy to visualize. It allows users to record their habits regularly and review their progress over time.
 
-## ✨ Features
+## ✨ Features  
 
 * 📅 Daily habit tracking
 * 📊 Progress monitoring
