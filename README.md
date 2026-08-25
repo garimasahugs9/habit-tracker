@@ -1,4 +1,4 @@
-# habit-tracker
+
 # Habit Tracker 📊
 
 A simple and visually organized **Habit Tracker created using Google Sheets** to help track daily habits, maintain consistency, and monitor personal progress.
